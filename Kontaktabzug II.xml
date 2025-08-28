@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContactSheetIISettings>
+  <source imageSource="Dateien" path="D:\Origami\Mosasaurus PD\EDITED\Edit_02\PSD" includeSubfolders="true" groupImages="false"/>
+  <document units="cm" width="20" height="60" resolution="500" resUnits="Pixel/Zoll" mode="RGB-Farbe" bitDepth="8-Bit" colorProfile="sRGB IEC61966-2.1" flattenLayers="false"/>
+  <thumbnail place="Zuerst von links nach rechts" cols="3" rows="9" bestFit="false" useAutospacing="false" horz="1 cm" vert="1 cm"/>
+  <caption enabled="false">
+    <font name="ArialMT" size="12"/>
+  </caption>
+  <date>2025-08-28T12:09:34</date>
+  <version>2.2.9</version>
+  <locale>de_DE</locale>
+</ContactSheetIISettings>
